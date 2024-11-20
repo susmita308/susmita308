@@ -1,6 +1,4 @@
-@@ -1,2 +1,21 @@
-# My-profile
-Hello world 
+
 <h1 align="center">Hi 👋, I'm Susmita Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 - 🔭 I’m currently working on [Interactive Geometry](https://66f81f66778c4dfbb8eb3f3a--fluffy-dolphin-08d023.netlify.app/)

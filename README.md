@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 - 🔭 I’m currently working on [Interactive Geometry](https://66f81f66778c4dfbb8eb3f3a--fluffy-dolphin-08d023.netlify.app/)
 - 🌱 I’m currently learning **React & Nodejs**
-- 👨‍💻 All of my projects are available at [https://github.com/susmita308/geometry?tab https://cheerful-stroopwafel-470612.netlify.app/=readme-ov-file](https://github.com/susmita308/geometry?tab https://cheerful-stroopwafel-470612.netlify.app/=readme-ov-file)
+- 👨‍💻 All of my projects are available at [https://github.com/susmita308/geometry?tab https://cheerful-stroopwafel-470612.netlify.app/=readme-ov-file] 
+(https://github.com/susmita308/geometry?tab https://cheerful-stroopwafel-470612.netlify.app/=readme-ov-file)
 - 💬 Ask me about **HTML & CSS**
 - 📫 How to reach me **susmitamoni1997@gmail.com**
 <h3 align="left">Connect with me:</h3>
